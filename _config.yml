@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://drive.google.com/file/d/16zgnTJcyT5pQiqf5hAeJVlcbLKoP7y9o/view?usp=drive_link1~https://drive.google.com/file/d/16zgnTJcyT5pQiqf5hAeJVlcbLKoP7y9o/view?usp=drive_link1~https://drive.google.com/file/d/16zgnTJcyT5pQiqf5hAeJVlcbLKoP7y9o/view?usp=drive_link1~https://drive.google.com/file/d/16zgnTJcyT5pQiqf5hAeJVlcbLKoP7y9o/view
+avatar: https://pbs.twimg.com/profile_images/1861479192002510848/WRCnYX1G_400x400.jpg
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
