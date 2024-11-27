@@ -1,7 +1,9 @@
+---
 title: "Rootme"
 date: 2024-26-11 00:00:00
 categories: [Tryhackme]
 tags: [Rootme]
+---
 
 #RootMe
 
