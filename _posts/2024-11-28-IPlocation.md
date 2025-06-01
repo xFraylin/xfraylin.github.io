@@ -6,7 +6,7 @@ date: 2024-11-28 3:37:00 0800+
 categories: [Bash]
 tags: [script]
 image:
-  path: https://xnuevecyber.com/ftp/ip.png
+  path: http://xnuevecyber.com/ftp/ip.png
 ---
 ### Introduction
 Im going to do a basic script, that you can get the location of ip addresse's
