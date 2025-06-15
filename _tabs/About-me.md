@@ -45,13 +45,13 @@ height="220" .w-75 .normal}
 ![Desktop View](https://images.credly.com/size/680x680/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob){: width="220" height="220" }
 >Cybersecurity Awareness - CAPC
 {: .prompt-info }
-![Desktop View](https://github.com/xFraylin/xfraylin.github.io/blob/main/assets/blob.png?raw=true){: width="220" height="220" .w-75 .normal}
+![Desktop View](https://images.credly.com/size/340x340/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob){: width="220" height="220" .w-75 .normal}
 > Lifelong Learning
 {: .prompt-info }
 ![Desktop View](https://images.credly.com/size/680x680/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob){: width="220" height="220" }
 >Cybersecurity Awareness Learner
 {: .prompt-info }
-![Desktop View](https://images.credly.com/size/680x680/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png){: width="220" height="220" .w-75 .normal}
+![Desktop View](https://images.credly.com/size/680x680/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png?raw=true){: width="220" height="220" .w-75 .normal}
 >ISC2 Candidate
 {: .prompt-info }
 
