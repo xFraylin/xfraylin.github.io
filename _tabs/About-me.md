@@ -45,7 +45,7 @@ height="220" .w-75 .normal}
 ![Desktop View](https://images.credly.com/size/680x680/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob){: width="220" height="220" }
 >Cybersecurity Awareness - CAPC
 {: .prompt-info }
-![Desktop View](https://images.credly.com/size/680x680/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob){: width="220" height="220" .w-75 .normal}
+![Desktop View](https://github.com/xFraylin/xfraylin.github.io/blob/main/assets/blob.png?raw=true){: width="220" height="220" .w-75 .normal}
 > Lifelong Learning
 {: .prompt-info }
 ![Desktop View](https://images.credly.com/size/680x680/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob){: width="220" height="220" }
@@ -77,7 +77,7 @@ with Merit
 ![Desktop View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7NLWKNIMSQ.png){: width="500" height="500" .w-75 .normal}
 >Cybersecurity 101
 {: .prompt-info }
-![Desktop View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7EKKHJ4K0Y.png){: width="500" height="500" }
+![Desktop View](https://github.com/xFraylin/xfraylin.github.io/blob/bf0537ff4685ab73d5085889c9675140358d8f25/assets/jr.pdf){: width="500" height="500" }
 > Jr Penetration Tester
 {: .prompt-info }
 ![Desktop View](https://media.licdn.com/dms/image/v2/D562DAQGEf4-8Qx0w5w/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719514909013?e=1738350000&v=beta&t=UpzfxTQCvhR4TbL598-OcqQBx3cD_fsnOO5xxGcqFmI){: width="500" height="500" .w-75 .normal}
