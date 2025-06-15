@@ -6,7 +6,7 @@ date: 2024-12-12 01:55:00 +0800
 categories: [Tryhackme]
 tags: [CTF]
 image:
-    path: /assets/github/shop/port.png
+    path: https://github.com/xFraylin/xfraylin.github.io/blob/main/assets/github/shop/port.png?raw=true
 ---
 
 ## Firts Let's start the machine

@@ -6,7 +6,7 @@ date: 2024-11-28 3:37:00 0800+
 categories: [Bash]
 tags: [script]
 image:
-  path: /assets/ip.png
+  path: https://github.com/xFraylin/xfraylin.github.io/blob/main/assets/ip.png?raw=true
 ---
 ### Introduction
 Im going to do a basic script, that you can get the location of ip addresse's
