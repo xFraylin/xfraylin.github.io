@@ -3,8 +3,8 @@ title: Powershell for pentesters
 description: This lab focuses on leveraging PowerShell to gain initial access to a machine. You will then establish remote access and exploit a second machine that is not directly accessible from Kali. By identifying misconfigurations, extracting sensitive credentials, and obtaining a remote shell, you will demonstrate your ability to move through a multi-stage attack scenario.
 author: xFraylin
 date: 2025-08-21 00:42:00 +0800
-categories: [Tryhackme]
-tags: [CTF]
+categories: [ine]
+tags: [Labs]
 image:
   path: https://github.com/xFraylin/xfraylin.github.io/blob/main/assets/Powershell/logoo.png?raw=true
 ---
